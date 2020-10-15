@@ -1,7 +1,7 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "Admin User",
+      "X-Author": "Лукнова, Валерия Анатольевна",
       "Access-Control-Allow-Origin": "*"
     }
   }
